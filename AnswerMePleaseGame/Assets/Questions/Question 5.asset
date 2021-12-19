@@ -13,3 +13,9 @@ MonoBehaviour:
   m_Name: Question 5
   m_EditorClassIdentifier: 
   question: What is my dad's middle name?
+  answers:
+  - Henryk
+  - Wladyslaw
+  - Bronislaw
+  - Jerzy
+  correctAnswerIndex: 1

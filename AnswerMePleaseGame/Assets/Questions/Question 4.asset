@@ -13,3 +13,9 @@ MonoBehaviour:
   m_Name: Question 4
   m_EditorClassIdentifier: 
   question: What is my favourite colour?
+  answers:
+  - Green
+  - Brown
+  - Creme
+  - Blue
+  correctAnswerIndex: 2

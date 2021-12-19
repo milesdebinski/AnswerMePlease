@@ -13,3 +13,9 @@ MonoBehaviour:
   m_Name: Question 3
   m_EditorClassIdentifier: 
   question: What is my favourite car?
+  answers:
+  - Burmese
+  - Syamis
+  - Egiptian
+  - You are ;)
+  correctAnswerIndex: 3

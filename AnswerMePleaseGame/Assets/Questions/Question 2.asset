@@ -13,3 +13,9 @@ MonoBehaviour:
   m_Name: Question 2
   m_EditorClassIdentifier: 
   question: At what age have I started playing on saxophone?
+  answers:
+  - 3
+  - 11
+  - 13
+  - 14
+  correctAnswerIndex: 1
