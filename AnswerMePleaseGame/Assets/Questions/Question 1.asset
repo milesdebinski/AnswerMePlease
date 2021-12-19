@@ -13,3 +13,9 @@ MonoBehaviour:
   m_Name: Question 1
   m_EditorClassIdentifier: 
   question: What was my first cat called?
+  answers:
+  - Luna
+  - Czak
+  - Robin
+  - Syriusz
+  correctAnswerIndex: 1
